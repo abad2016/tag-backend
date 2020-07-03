@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="PayPal" Version="1.9.1" />
+    <PackageReference Include="SendGrid" Version="9.17.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="TaGUtil">
+      <HintPath>..\..\TaGUtil\TaGUtil\bin\Debug\netcoreapp3.1\TaGUtil.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="scripts\" />
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties properties_4launchsettings_1json__JsonSchema="https://batect.dev/configSchema.json" /></VisualStudio></ProjectExtensions>
+
+
+</Project>

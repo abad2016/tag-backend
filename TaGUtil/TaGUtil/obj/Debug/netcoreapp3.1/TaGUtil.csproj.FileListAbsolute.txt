@@ -1,0 +1,9 @@
+C:\Users\sebas\Desktop\ProyectoFinal\TaGUtil\TaGUtil\bin\Debug\netcoreapp3.1\TaGUtil.deps.json
+C:\Users\sebas\Desktop\ProyectoFinal\TaGUtil\TaGUtil\bin\Debug\netcoreapp3.1\TaGUtil.dll
+C:\Users\sebas\Desktop\ProyectoFinal\TaGUtil\TaGUtil\obj\Debug\netcoreapp3.1\TaGUtil.csprojAssemblyReference.cache
+C:\Users\sebas\Desktop\ProyectoFinal\TaGUtil\TaGUtil\obj\Debug\netcoreapp3.1\TaGUtil.AssemblyInfoInputs.cache
+C:\Users\sebas\Desktop\ProyectoFinal\TaGUtil\TaGUtil\obj\Debug\netcoreapp3.1\TaGUtil.AssemblyInfo.cs
+C:\Users\sebas\Desktop\ProyectoFinal\TaGUtil\TaGUtil\bin\Debug\netcoreapp3.1\TaGUtil.pdb
+C:\Users\sebas\Desktop\ProyectoFinal\TaGUtil\TaGUtil\obj\Debug\netcoreapp3.1\TaGUtil.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\ProyectoFinal\TaGUtil\TaGUtil\obj\Debug\netcoreapp3.1\TaGUtil.dll
+C:\Users\sebas\Desktop\ProyectoFinal\TaGUtil\TaGUtil\obj\Debug\netcoreapp3.1\TaGUtil.pdb

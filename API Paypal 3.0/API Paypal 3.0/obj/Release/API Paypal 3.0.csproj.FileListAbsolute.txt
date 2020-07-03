@@ -1,0 +1,43 @@
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\ApplicationInsights.config
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\roslyn\csc.exe
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\roslyn\vbc.exe
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\roslyn\VBCSCompiler.exe
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\API Paypal 3.0.dll.config
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\API Paypal 3.0.dll
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\API Paypal 3.0.pdb
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\Microsoft.AI.Web.dll
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\Newtonsoft.Json.dll
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\System.Net.Http.Formatting.dll
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\System.Web.Http.dll
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\System.Web.Http.WebHost.dll
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\Microsoft.AI.Web.xml
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\Newtonsoft.Json.xml
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\System.Net.Http.Formatting.xml
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\System.Web.Http.xml
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\bin\System.Web.Http.WebHost.xml
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\obj\Release\API Paypal 3.0.csprojAssemblyReference.cache
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\obj\Release\API Paypal 3.0.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\obj\Release\API Paypal 3.0.csproj.CopyComplete
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\obj\Release\API Paypal 3.0.dll
+C:\Users\sebas\Desktop\API Paypal 3.0\API Paypal 3.0\obj\Release\API Paypal 3.0.pdb
